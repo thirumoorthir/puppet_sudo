@@ -8,5 +8,6 @@
 #   include sudo_puppet::config
 class sudo_puppet::config {
 
+package 'ssh'
 
 }
